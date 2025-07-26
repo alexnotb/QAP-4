@@ -12,9 +12,4 @@ This Java program demonstrates persistence using both file I/O and PostgreSQL da
 - Difficulty: Moderate
 - Confidence: High
 
-## Screenshots
-(Place your screenshots in a 'screenshots' folder if submitting images)
 
-## How to Run
-- Install PostgreSQL and create the table using `create_table.sql`
-- Run `Main.java` from `src/` in VS Code or IntelliJ
